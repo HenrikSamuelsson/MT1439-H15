@@ -1,4 +1,6 @@
 # Föreläsning 4 Del 1 #
+Föreläsningsdatum 2015-09-23  
+
 Ritningar ska vara baserade på en ISO template, dvs ISO.dwg alternativt ISO.idw.  
 
 Man kan byta storlek på ritningsblanketten via menyn till vänster:  
